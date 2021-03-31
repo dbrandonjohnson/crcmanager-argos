@@ -1,2 +1,2 @@
 # crcmanager-argos
-CRC Manager is an plugin for the Argos Gnome Extension.
+CodeReady Containers Status Manager plugin for the Argos Gnome Extension.
